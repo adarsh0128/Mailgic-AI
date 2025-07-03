@@ -1,10 +1,10 @@
-# EmailGeneratorGPT
+# Mailgic-AI
 
-EmailGeneratorGPT is an intelligent email generation platform powered by OpenAI's GPT. Create professional, personalized, and contextually appropriate emails for any situation with the help of advanced AI. Built with Next.js and styled with Tailwind CSS, this application offers a seamless user experience with real-time email generation and customization options.
+Mailgic-AI is an intelligent email generation platform powered by OpenAI's GPT. Create professional, personalized, and contextually appropriate emails for any situation with the help of advanced AI. Built with Next.js and styled with Tailwind CSS, this application offers a seamless user experience with real-time email generation and customization options.
 
 <!-- ## Live Demo
 
-[https://emailgeneratorgpt.vercel.app/](https://magic-mail-six.vercel.app/) -->
+[https://Mailgic-AI.vercel.app/](https://magic-mail-six.vercel.app/) -->
 
 ## Features
 
@@ -121,4 +121,4 @@ For any queries or support, please open an issue in the GitHub repository.
 
 - OpenAI for providing the GPT API
 - Next.js team for the amazing framework
-- All contributors and users of EmailGeneratorGPT
+- All contributors and users of Mailgic-AI
